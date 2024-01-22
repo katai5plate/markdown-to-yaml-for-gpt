@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "scripts": {
+    "md2yaml": "node ."
+  },
+  "dependencies": {
+    "@types/node": "^20.11.5",
+    "yaml": "^2.3.4"
+  }
+}
